@@ -8,6 +8,7 @@ header{
     grid-template-columns: 65% 35%;
     height: 150px;
     align-items: center;
+    box-shadow: 5px 5px 4px rgb(202, 199, 199);
     
 }
 nav a{
