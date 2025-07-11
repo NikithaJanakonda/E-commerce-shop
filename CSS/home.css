@@ -23,23 +23,23 @@ nav i{
     margin-top: 25px;
 }
 .a{
-    margin-left: 800px;
+    margin-left: 950px;
     margin-top: -400px;
-    height: 600px;
+    height: 650px;
     width: 600px;
     
 }
 .wire{
     
-    margin-left: 700px;
-    margin-top: -350px;
-   height:600px;
+    margin-left: 950px;
+    margin-top: -400px;
+   height:650px;
    width: 600px;
     
 }
 .hero{
-     margin-left: 700px;
-    margin-top: -350px;
+     margin-left: 800px;
+    margin-top: -400px;
    height:600px;
    width: 600px;
     
@@ -51,9 +51,9 @@ nav i{
 }
 .c{
     
-    margin-left: 700px;
-    margin-top: -350px;
-    height: 600px;
+    margin-left: 950px;
+    margin-top: -400px;
+    height: 700px;
     width: 600px;
     
 }
