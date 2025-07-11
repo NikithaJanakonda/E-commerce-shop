@@ -102,6 +102,9 @@ h6 a{
     margin-left: 1200px;
     margin-top: -450px;  
 }
+.hr{
+    color: darkgray;
+}
 .cart p{
     margin-top: 10px;
     padding-inline-start: 20px;
