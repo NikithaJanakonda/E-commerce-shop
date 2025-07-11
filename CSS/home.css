@@ -4,7 +4,7 @@
 } 
 header{
     display: grid;
-    background-color: pink;
+    background-color: white;
     grid-template-columns: 65% 35%;
     height: 150px;
     align-items: center;
