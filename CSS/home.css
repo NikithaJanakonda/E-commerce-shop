@@ -85,7 +85,7 @@ img{
     text-align: center;
     align-content: center;
     width: 300px; 
-    height: 200px;
+    height: 300px;
     gap: 8px;
     padding-top: 40px;
     background-color: hwb(21 86% 4%);
@@ -94,7 +94,7 @@ img{
      text-align: center;
      align-content: center;
       width: 300px; 
-     height: 200px;
+     height: 300px;
      gap: 8px;
      padding-top: 40px;
      background-color: hwb(180 84% 7%);
@@ -103,7 +103,7 @@ img{
      text-align: center;
      align-content: center;
       width: 300px; 
-     height: 200px;
+     height: 300px;
      gap: 8px;
      padding-top: 40px;
      background-color: hwb(81 80% 5%);
@@ -113,7 +113,7 @@ img{
      background-color: hwb(218 83% 5%);
      align-content: center;
       width: 300px; 
-     height: 200px;
+     height: 300px;
      gap: 8px;
      padding-top: 40px;
 }
