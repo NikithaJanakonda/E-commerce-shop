@@ -258,6 +258,10 @@ button:hover {
     display: flex;
     margin: 40px 0px 40px 0px;  
 }
+.logo{
+    font-size: 30px;
+    margin-left: 150px;
+}
 
 #sea{
     margin-left: 450px;
